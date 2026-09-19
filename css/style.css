@@ -16,3 +16,19 @@ border-radius: 30px;
 border: none;
 font-weight: bolder;
 }
+
+.botao#cor-2{
+    background-color: #2C5697
+}
+
+.botao#cor-3{
+    background-color: #ED9B33
+}
+
+.botao#cor-4{
+    background-color: #8A9B8E
+}
+
+.botao#cor-5{
+    background-color: #D0E5E0
+}
